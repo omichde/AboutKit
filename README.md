@@ -255,6 +255,8 @@ let otherApp = AKOtherApp(
 
 If a value for the app icon is not provided, one will attempt to be downloaded from the App Store based on the provided app ID. The app ID can be found in App Store Connect or from the app's URL, e.g. <https://apps.apple.com/app/id123456789>
 
+On iOS, visionOS, and macOS, each related-app row opens its App Store page when tapped or clicked. A trailing arrow indicates the link without a separate button background.
+
 ### AKAcknowledgements
 
 This is a struct which contains details about frameworks and people youʼd like to acknowledge. You can create one as follows:

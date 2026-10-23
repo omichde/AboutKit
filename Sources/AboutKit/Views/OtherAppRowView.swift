@@ -16,35 +16,28 @@ struct OtherAppRowView: View {
     }
 
     var body: some View {
-        HStack(spacing: 16) {
-            AppIconImageView(for: otherApp, at: .init(width: 60, height: 60))
-
-            Text(otherApp.name)
-                .font(.headline)
-                .lineLimit(2)
-
-            Spacer(minLength: 1)
-
-            viewOnAppStoreButton
-        }
-        .padding(.vertical, 8)
-        .buttonStyle(.plain)
-    }
-
-    private var viewOnAppStoreButton: some View {
         Link(destination: otherApp.appStoreURL) {
-            Text(LocalizedStrings.view)
-                .font(.headline)
-                .lineLimit(1)
-                .padding(.horizontal, 8)
-                #if os(iOS) && !targetEnvironment(macCatalyst)
-                .hoverEffect(.lift)
-                #endif
-                .accessibilityLabel(String(localized: "View \(otherApp.name) in the App Store", bundle: .module))
+            HStack(spacing: 16) {
+                AppIconImageView(for: otherApp, at: .init(width: 60, height: 60))
+
+                Text(otherApp.name)
+                    .font(.headline)
+                    .foregroundStyle(.primary)
+                    .lineLimit(2)
+
+                Spacer(minLength: 1)
+
+                Image(systemName: "arrow.up.right")
+                    .font(.headline)
+                    .foregroundStyle(.tint)
+            }
+            .padding(.vertical, 8)
+            .frame(maxWidth: .infinity)
+            .contentShape(Rectangle())
         }
-        .buttonStyle(.bordered)
-        .buttonBorderShape(.capsule)
-        .controlSize(.small)
+        .buttonStyle(.plain)
+        .accessibilityElement(children: .ignore)
+        .accessibilityLabel(String(localized: "View \(otherApp.name) in the App Store", bundle: .module))
     }
 }
 
