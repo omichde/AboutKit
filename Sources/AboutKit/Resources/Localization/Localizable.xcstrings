@@ -2583,6 +2583,12 @@
     },
     "Review…" : {
       "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write Review…"
+          }
+        },
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3653,6 +3659,12 @@
     },
     "View all Apps" : {
       "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View All Apps"
+          }
+        },
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
