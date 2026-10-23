@@ -735,7 +735,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contatta lo Sviluppatore…"
+            "value" : "Contatta lo sviluppatore…"
           }
         },
         "ja" : {
@@ -1280,7 +1280,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quadri"
+            "value" : "Framework"
           }
         },
         "ja" : {
@@ -1688,7 +1688,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apri Sito Web…"
+            "value" : "Apri il sito web…"
           }
         },
         "ja" : {
@@ -1824,7 +1824,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Altre App"
+            "value" : "Altre app"
           }
         },
         "ja" : {
@@ -2096,7 +2096,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Politica Sulla Riservatezza"
+            "value" : "Informativa sulla privacy"
           }
         },
         "ja" : {
@@ -2504,7 +2504,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deposito"
+            "value" : "Repository"
           }
         },
         "ja" : {
@@ -2646,7 +2646,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Revisione…"
+            "value" : "Scrivi una recensione…"
           }
         },
         "ja" : {
@@ -2782,7 +2782,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Condividi App"
+            "value" : "Condividi app"
           }
         },
         "ja" : {
@@ -2918,7 +2918,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Condividere…"
+            "value" : "Condividi…"
           }
         },
         "ja" : {
@@ -3060,7 +3060,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Termini di Utilizzo"
+            "value" : "Termini di utilizzo"
           }
         },
         "ja" : {
@@ -3308,7 +3308,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vista"
+            "value" : "Visualizza"
           }
         },
         "ja" : {
@@ -3580,7 +3580,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Visualizza i Ringraziamenti…"
+            "value" : "Visualizza i ringraziamenti…"
           }
         },
         "ja" : {
@@ -3722,7 +3722,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Visualizza tutte le App"
+            "value" : "Visualizza tutte le app"
           }
         },
         "ja" : {
@@ -3858,7 +3858,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Visualizza l'Informativa Sulla Privacy…"
+            "value" : "Visualizza l’informativa sulla privacy…"
           }
         },
         "ja" : {
@@ -3994,7 +3994,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vedi Profilo…"
+            "value" : "Visualizza il profilo…"
           }
         },
         "ja" : {
@@ -4130,7 +4130,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Visualizza i Termini di Utilizzo…"
+            "value" : "Visualizza i termini di utilizzo…"
           }
         },
         "ja" : {
@@ -4266,7 +4266,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Visualizzazione…"
+            "value" : "Visualizza…"
           }
         },
         "ja" : {
@@ -4402,7 +4402,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sito Web"
+            "value" : "Sito web"
           }
         },
         "ja" : {
@@ -4538,7 +4538,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scrivere una Recensione"
+            "value" : "Scrivi una recensione"
           }
         },
         "ja" : {
