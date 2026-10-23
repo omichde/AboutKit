@@ -451,7 +451,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Découvrez %@ sur l'App Store!"
+            "value" : "Découvrez %@ sur l’App Store !"
           }
         },
         "he" : {
@@ -723,7 +723,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contacter le Développeur…"
+            "value" : "Contacter le développeur…"
           }
         },
         "he" : {
@@ -995,7 +995,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valider"
+            "value" : "Terminé"
           }
         },
         "he" : {
@@ -1268,7 +1268,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cadres"
+            "value" : "Frameworks"
           }
         },
         "he" : {
@@ -1540,7 +1540,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ouvrez TestFlight…"
+            "value" : "Ouvrir TestFlight…"
           }
         },
         "he" : {
@@ -1676,7 +1676,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ouvrir le Site Web…"
+            "value" : "Ouvrir le site web…"
           }
         },
         "he" : {
@@ -1812,7 +1812,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autres Apps"
+            "value" : "Autres apps"
           }
         },
         "he" : {
@@ -2084,7 +2084,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Politique de Confidentialité"
+            "value" : "Politique de confidentialité"
           }
         },
         "he" : {
@@ -2634,7 +2634,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Examen…"
+            "value" : "Rédiger un avis…"
           }
         },
         "he" : {
@@ -3048,7 +3048,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conditions d'Utilisation"
+            "value" : "Conditions d’utilisation"
           }
         },
         "he" : {
@@ -3432,7 +3432,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voir %@ dans l'App Store"
+            "value" : "Voir %@ sur l’App Store"
           }
         },
         "he" : {
@@ -3568,7 +3568,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afficher les Remerciements…"
+            "value" : "Voir les remerciements…"
           }
         },
         "he" : {
@@ -3710,7 +3710,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voir toutes Apps"
+            "value" : "Voir toutes les apps"
           }
         },
         "he" : {
@@ -3846,7 +3846,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voir la Politique de Confidentialité…"
+            "value" : "Voir la politique de confidentialité…"
           }
         },
         "he" : {
@@ -3982,7 +3982,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voir le Profil…"
+            "value" : "Voir le profil…"
           }
         },
         "he" : {
@@ -4118,7 +4118,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voir les Conditions d'Utilisation…"
+            "value" : "Voir les conditions d’utilisation…"
           }
         },
         "he" : {
@@ -4390,7 +4390,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Site Web"
+            "value" : "Site web"
           }
         },
         "he" : {
@@ -4526,7 +4526,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Écrire un Commentaire"
+            "value" : "Rédiger un avis"
           }
         },
         "he" : {
