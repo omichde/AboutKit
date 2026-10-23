@@ -357,7 +357,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reconhecimentos"
+            "value" : "Agradecimentos"
           }
         },
         "pt-PT" : {
@@ -493,7 +493,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Confira o %@ na App Store!"
+            "value" : "Confira %@ na App Store!"
           }
         },
         "pt-PT" : {
@@ -765,7 +765,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre em Contato com o Desenvolvedor…"
+            "value" : "Contatar o desenvolvedor…"
           }
         },
         "pt-PT" : {
@@ -1037,7 +1037,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feito"
+            "value" : "OK"
           }
         },
         "pt-PT" : {
@@ -1310,7 +1310,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estruturas"
+            "value" : "Frameworks"
           }
         },
         "pt-PT" : {
@@ -1582,7 +1582,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abra o TestFlight…"
+            "value" : "Abrir TestFlight…"
           }
         },
         "pt-PT" : {
@@ -1718,7 +1718,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abrir Site…"
+            "value" : "Abrir site…"
           }
         },
         "pt-PT" : {
@@ -1854,7 +1854,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Outros Aplicativos"
+            "value" : "Outros apps"
           }
         },
         "pt-PT" : {
@@ -2126,7 +2126,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Política de Privacidade"
+            "value" : "Política de privacidade"
           }
         },
         "pt-PT" : {
@@ -2676,7 +2676,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Análise…"
+            "value" : "Escrever uma avaliação…"
           }
         },
         "pt-PT" : {
@@ -2812,7 +2812,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe o Aplicativo"
+            "value" : "Compartilhar app"
           }
         },
         "pt-PT" : {
@@ -3090,7 +3090,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Termos de Uso"
+            "value" : "Termos de uso"
           }
         },
         "pt-PT" : {
@@ -3338,7 +3338,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vista"
+            "value" : "Visualizar"
           }
         },
         "pt-PT" : {
@@ -3474,7 +3474,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veja %@ na App Store"
+            "value" : "Visualizar %@ na App Store"
           }
         },
         "pt-PT" : {
@@ -3610,7 +3610,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Agradecimentos…"
+            "value" : "Visualizar agradecimentos…"
           }
         },
         "pt-PT" : {
@@ -3752,7 +3752,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver todos os Aplicativos"
+            "value" : "Visualizar todos os apps"
           }
         },
         "pt-PT" : {
@@ -3888,7 +3888,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Política de Privacidade…"
+            "value" : "Visualizar política de privacidade…"
           }
         },
         "pt-PT" : {
@@ -4024,7 +4024,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Perfil…"
+            "value" : "Visualizar perfil…"
           }
         },
         "pt-PT" : {
@@ -4160,7 +4160,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veja os Termos de Uso…"
+            "value" : "Visualizar termos de uso…"
           }
         },
         "pt-PT" : {
@@ -4432,7 +4432,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Página Internet"
+            "value" : "Site"
           }
         },
         "pt-PT" : {
@@ -4568,7 +4568,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escrever Análise"
+            "value" : "Escrever uma avaliação"
           }
         },
         "pt-PT" : {
