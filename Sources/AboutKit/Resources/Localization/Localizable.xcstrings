@@ -1013,7 +1013,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "終わり"
+            "value" : "完了"
           }
         },
         "ko" : {
@@ -1966,7 +1966,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "人々"
+            "value" : "協力者"
           }
         },
         "ko" : {
@@ -2652,7 +2652,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "レビュー…"
+            "value" : "レビューを書く…"
           }
         },
         "ko" : {
@@ -3314,7 +3314,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "見る"
+            "value" : "表示"
           }
         },
         "ko" : {
@@ -3864,7 +3864,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "プライバシーポリシーを見る…"
+            "value" : "プライバシーポリシーを表示…"
           }
         },
         "ko" : {
@@ -4000,7 +4000,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "プロフィールを見る…"
+            "value" : "プロフィールを表示…"
           }
         },
         "ko" : {
@@ -4136,7 +4136,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "利用規約を見る…"
+            "value" : "利用規約を表示…"
           }
         },
         "ko" : {
@@ -4272,7 +4272,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "意見…"
+            "value" : "表示…"
           }
         },
         "ko" : {
@@ -4408,7 +4408,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Webサイト"
+            "value" : "ウェブサイト"
           }
         },
         "ko" : {
