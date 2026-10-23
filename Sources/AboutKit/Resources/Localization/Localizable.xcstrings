@@ -671,7 +671,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "遵守"
+            "value" : "合规性"
           }
         }
       }
@@ -807,7 +807,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "联系开发商…"
+            "value" : "联系开发者…"
           }
         }
       }
@@ -943,7 +943,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "细节"
+            "value" : "详细信息"
           }
         }
       }
@@ -1079,7 +1079,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "完毕"
+            "value" : "完成"
           }
         }
       }
@@ -1352,7 +1352,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "构架"
+            "value" : "框架"
           }
         }
       }
@@ -1624,7 +1624,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "打开TestFlight…"
+            "value" : "打开 TestFlight…"
           }
         }
       }
@@ -2032,7 +2032,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "人们"
+            "value" : "贡献者"
           }
         }
       }
@@ -2440,7 +2440,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "型材"
+            "value" : "个人资料"
           }
         }
       }
@@ -2718,7 +2718,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "审查…"
+            "value" : "撰写评论…"
           }
         }
       }
@@ -3380,7 +3380,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "看法"
+            "value" : "查看"
           }
         }
       }
@@ -4066,7 +4066,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "查看资料…"
+            "value" : "查看个人资料…"
           }
         }
       }
@@ -4338,7 +4338,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "看法…"
+            "value" : "查看…"
           }
         }
       }
@@ -4610,7 +4610,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "写评论"
+            "value" : "撰写评论"
           }
         }
       }
