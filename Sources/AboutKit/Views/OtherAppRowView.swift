@@ -31,7 +31,6 @@ struct OtherAppRowView: View {
                     .font(.headline)
                     .foregroundStyle(.tint)
             }
-            .padding(.vertical, 8)
             .frame(maxWidth: .infinity)
             .contentShape(Rectangle())
         }
