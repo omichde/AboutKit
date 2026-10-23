@@ -421,7 +421,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schauen Sie sich das %@ im App Store an!"
+            "value" : "Schauen Sie sich %@ im App Store an!"
           }
         },
         "en-AU" : {
@@ -557,7 +557,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einhaltung"
+            "value" : "Konformität"
           }
         },
         "en-AU" : {
@@ -693,7 +693,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entwickler Kontaktieren…"
+            "value" : "Entwickler kontaktieren…"
           }
         },
         "en-AU" : {
@@ -829,7 +829,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einzelheiten"
+            "value" : "Details"
           }
         },
         "en-AU" : {
@@ -1102,7 +1102,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Email"
+            "value" : "E-Mail"
           }
         },
         "en-AU" : {
@@ -1238,7 +1238,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rahmenwerke"
+            "value" : "Frameworks"
           }
         },
         "en-AU" : {
@@ -1646,7 +1646,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Webseite Öffnen…"
+            "value" : "Website öffnen…"
           }
         },
         "en-AU" : {
@@ -1918,7 +1918,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menschen"
+            "value" : "Personen"
           }
         },
         "en-AU" : {
@@ -2054,7 +2054,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Datenschutzrichtlinie"
+            "value" : "Datenschutzerklärung"
           }
         },
         "en-AU" : {
@@ -2598,7 +2598,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezension…"
+            "value" : "Bewertung schreiben…"
           }
         },
         "en-AU" : {
@@ -2734,7 +2734,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "App Teilen"
+            "value" : "App teilen"
           }
         },
         "en-AU" : {
@@ -2870,7 +2870,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktie…"
+            "value" : "Teilen…"
           }
         },
         "en-AU" : {
@@ -3532,7 +3532,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Danksagungen Anzeigen…"
+            "value" : "Danksagungen anzeigen…"
           }
         },
         "en-AU" : {
@@ -3668,7 +3668,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alle anzeigen Apps"
+            "value" : "Alle Apps anzeigen"
           }
         },
         "en-AU" : {
@@ -3804,7 +3804,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Datenschutzrichtlinie Anzeigen…"
+            "value" : "Datenschutzerklärung anzeigen…"
           }
         },
         "en-AU" : {
@@ -3940,7 +3940,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Profil Anzeigen…"
+            "value" : "Profil anzeigen…"
           }
         },
         "en-AU" : {
@@ -4076,7 +4076,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nutzungsbedingungen Anzeigen…"
+            "value" : "Nutzungsbedingungen anzeigen…"
           }
         },
         "en-AU" : {
@@ -4212,7 +4212,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sicht…"
+            "value" : "Anzeigen…"
           }
         },
         "en-AU" : {
@@ -4348,7 +4348,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Webseite"
+            "value" : "Website"
           }
         },
         "en-AU" : {
@@ -4484,7 +4484,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bewertung Schreiben"
+            "value" : "Bewertung schreiben"
           }
         },
         "en-AU" : {
