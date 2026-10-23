@@ -445,7 +445,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Echa un vistazo al %@ en la App Store!"
+            "value" : "¡Descubre %@ en el App Store!"
           }
         },
         "fr" : {
@@ -717,7 +717,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contactar al Desarrollador…"
+            "value" : "Contactar con el desarrollador…"
           }
         },
         "fr" : {
@@ -1126,7 +1126,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Correo Electrónico"
+            "value" : "Correo electrónico"
           }
         },
         "fr" : {
@@ -1262,7 +1262,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcos"
+            "value" : "Frameworks"
           }
         },
         "fr" : {
@@ -1534,7 +1534,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abra TestFlight…"
+            "value" : "Abrir TestFlight…"
           }
         },
         "fr" : {
@@ -1670,7 +1670,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abrir Sitio Web…"
+            "value" : "Abrir sitio web…"
           }
         },
         "fr" : {
@@ -1806,7 +1806,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Otras Aplicaciones"
+            "value" : "Otras apps"
           }
         },
         "fr" : {
@@ -1942,7 +1942,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gente"
+            "value" : "Personas"
           }
         },
         "fr" : {
@@ -2078,7 +2078,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Política de Privacidad"
+            "value" : "Política de privacidad"
           }
         },
         "fr" : {
@@ -2628,7 +2628,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Revisar…"
+            "value" : "Escribir una reseña…"
           }
         },
         "fr" : {
@@ -2764,7 +2764,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartir Aplicación"
+            "value" : "Compartir app"
           }
         },
         "fr" : {
@@ -3042,7 +3042,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Términos de Uso"
+            "value" : "Términos de uso"
           }
         },
         "fr" : {
@@ -3426,7 +3426,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver %@ en la App Store"
+            "value" : "Ver %@ en el App Store"
           }
         },
         "fr" : {
@@ -3562,7 +3562,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Reconocimientos…"
+            "value" : "Ver agradecimientos…"
           }
         },
         "fr" : {
@@ -3704,7 +3704,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver todas Aplicaciones"
+            "value" : "Ver todas las apps"
           }
         },
         "fr" : {
@@ -3840,7 +3840,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Política de Privacidad…"
+            "value" : "Ver política de privacidad…"
           }
         },
         "fr" : {
@@ -3976,7 +3976,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Perfil…"
+            "value" : "Ver perfil…"
           }
         },
         "fr" : {
@@ -4112,7 +4112,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Términos de Uso…"
+            "value" : "Ver términos de uso…"
           }
         },
         "fr" : {
@@ -4248,7 +4248,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vista…"
+            "value" : "Ver…"
           }
         },
         "fr" : {
@@ -4384,7 +4384,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sitio Web"
+            "value" : "Sitio web"
           }
         },
         "fr" : {
@@ -4520,7 +4520,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escribir una Reseña"
+            "value" : "Escribir una reseña"
           }
         },
         "fr" : {
