@@ -475,7 +475,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "App Store에서 %@을 확인하세요!"
+            "value" : "App Store에서 %@ 앱을 확인해 보세요!"
           }
         },
         "nl" : {
@@ -883,7 +883,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "세부"
+            "value" : "세부 정보"
           }
         },
         "nl" : {
@@ -1019,7 +1019,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "끝난"
+            "value" : "완료"
           }
         },
         "nl" : {
@@ -1428,7 +1428,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "연결"
+            "value" : "링크"
           }
         },
         "nl" : {
@@ -1972,7 +1972,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "사람들"
+            "value" : "기여자"
           }
         },
         "nl" : {
@@ -2108,7 +2108,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "개인 정보 정책"
+            "value" : "개인정보 처리방침"
           }
         },
         "nl" : {
@@ -2658,7 +2658,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "검토…"
+            "value" : "리뷰 작성…"
           }
         },
         "nl" : {
@@ -2930,7 +2930,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "공유하다…"
+            "value" : "공유…"
           }
         },
         "nl" : {
@@ -3320,7 +3320,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "전망"
+            "value" : "보기"
           }
         },
         "nl" : {
@@ -3456,7 +3456,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "App Store에서 %@보기"
+            "value" : "App Store에서 %@ 보기"
           }
         },
         "nl" : {
@@ -3592,7 +3592,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "승인 보기…"
+            "value" : "감사의 말 보기…"
           }
         },
         "nl" : {
@@ -3734,7 +3734,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "모든 앱보기"
+            "value" : "모든 앱 보기"
           }
         },
         "nl" : {
@@ -3870,7 +3870,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "개인정보 보호정책 보기…"
+            "value" : "개인정보 처리방침 보기…"
           }
         },
         "nl" : {
@@ -4006,7 +4006,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "프로필보기…"
+            "value" : "프로필 보기…"
           }
         },
         "nl" : {
@@ -4278,7 +4278,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "보다…"
+            "value" : "보기…"
           }
         },
         "nl" : {
@@ -4550,7 +4550,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "리뷰를 쓰다"
+            "value" : "리뷰 작성"
           }
         },
         "nl" : {
